@@ -1,7 +1,7 @@
 ---
 title: "Workshop on Test Flakiness"
 date: 2023-08-13T15:33:01+02:00
-draft: true
+draft: false
 cascade:
   featured_image: 'images/croisant2.jpg'
 ---
