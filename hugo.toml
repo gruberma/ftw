@@ -1,4 +1,4 @@
 baseURL = 'http://gruberma.github.io/wtf/'
 languageCode = 'en-us'
-title = 'The Workshop on Test Flakiness (WTF)'
+title = 'WTF'
 theme = 'ananke'
