@@ -33,7 +33,7 @@ He published multiple papers in this field, including an extensive systematic li
 
 ![Martin Gruber](images/martin_gruber.jpg)
 
-**Martin Gruber** is a Software Engineering working with the BMW Group, where he is concerned with software quality and testing in CI environments.
+**Martin Gruber** is a Software Engineer working with the BMW Group, where he is concerned with software quality and testing in CI environments.
 Furthermore, he is currently finalizing his dissertation on the understanding and mitigation of test flakiness.
 <!-- Furthermore, he is finishing up his dissertation (4th year PhD candidate), which he is planning to submit until the end of this year. -->
 <!-- His research is concerned with the understanding and mitigation of test flakiness, on which he published multiple papers in well-known conferences. -->
