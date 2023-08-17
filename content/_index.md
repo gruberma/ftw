@@ -17,9 +17,9 @@ If all goes well, we hope to see you in Lisbon!
 
 # Organizing Committee
 
-![tim_henderson](images/tim_henderson.jpg)
+![Tim Henderson](images/tim_henderson.jpg)
 
-**Tim A. D. Henderson** is Senior Software Engineer at Google working on Google's proprietary CI platform: the Test Automation Platform (TAP).
+**Tim A. D. Henderson** is Staff Software Engineer at Google working on Google's proprietary CI platform: the Test Automation Platform (TAP).
 Dr. Henderson specializes in testing, fault localization, semantic code clone detection, program analysis, graph mining, and databases.
 <!-- Dr. Henderson received a Ph.D. at Case Western Reserve University and was advised by Dr. Andy Podgurksi. -->
 <!-- Previous service includes: Track Chair for ICST 2022 Industry Track, organizing multiple instances of the CI/CD Industry Workshop (CCIW) at ICST (2020, 2021, 2023), and serving on the PC for AST 2022, and ICST 2019 (Tools and Demos). -->
