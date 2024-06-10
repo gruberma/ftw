@@ -1,5 +1,5 @@
 ---
-title: "Workshop on Test Flakiness"
+title: "Flaky Tests Workshop"
 date: 2023-08-13T15:33:01+02:00
 draft: false
 cascade:
@@ -9,21 +9,14 @@ cascade:
 *Flakiness*, or non-deterministic behavior of builds and tests, is a major and continuing impediment to software testing.
 This workshop aims to bring together **industry professionals** and **academics** to discuss the wide effects of test flakiness, propose solution approaches, report on the industrial state of practice, and present empirical studies, as well as case studies.
 
-# Status
 
-We have submitted our workshop proposal to [ICSE 2024](https://conf.researchr.org/home/icse-2024), which is currently under review.
-If all goes well, we hope to see you in Lisbon!
+<!-- # Status -->
+<!--  -->
+<!-- We have submitted our workshop proposal to [ICSE 2024](https://conf.researchr.org/home/icse-2024), which is currently under review. -->
+<!-- If all goes well, we hope to see you in Lisbon! -->
 
 
 # Organizing Committee
-
-![Tim Henderson](images/tim_henderson.jpg)
-
-**Tim A. D. Henderson** is Staff Software Engineer at Google working on Google's proprietary CI platform: the Test Automation Platform (TAP).
-Dr. Henderson specializes in testing, fault localization, semantic code clone detection, program analysis, graph mining, and databases.
-<!-- Dr. Henderson received a Ph.D. at Case Western Reserve University and was advised by Dr. Andy Podgurksi. -->
-<!-- Previous service includes: Track Chair for ICST 2022 Industry Track, organizing multiple instances of the CI/CD Industry Workshop (CCIW) at ICST (2020, 2021, 2023), and serving on the PC for AST 2022, and ICST 2019 (Tools and Demos). -->
-<!-- Additionally, Dr. Henderson hosts the Google Journal Club which provides opportunities for the academic and industry testing communities to discuss recent work in Software Engineering. -->
 
 ![Owain Parry](images/owain_parry.jpg)
 
@@ -38,6 +31,18 @@ Furthermore, he is currently finalizing his dissertation on the understanding an
 <!-- Furthermore, he is finishing up his dissertation (4th year PhD candidate), which he is planning to submit until the end of this year. -->
 <!-- His research is concerned with the understanding and mitigation of test flakiness, on which he published multiple papers in well-known conferences. -->
 <!-- He is supervised by professor Gordon Fraser, who holds the Chair for Software Engineering 2 at the University of Passau. -->
+
+
+# Steering Committee
+
+
+![Tim Henderson](images/tim_henderson.jpg)
+
+**Tim A. D. Henderson** is Staff Software Engineer at Google working on Google's proprietary CI platform: the Test Automation Platform (TAP).
+Dr. Henderson specializes in testing, fault localization, semantic code clone detection, program analysis, graph mining, and databases.
+<!-- Dr. Henderson received a Ph.D. at Case Western Reserve University and was advised by Dr. Andy Podgurksi. -->
+<!-- Previous service includes: Track Chair for ICST 2022 Industry Track, organizing multiple instances of the CI/CD Industry Workshop (CCIW) at ICST (2020, 2021, 2023), and serving on the PC for AST 2022, and ICST 2019 (Tools and Demos). -->
+<!-- Additionally, Dr. Henderson hosts the Google Journal Club which provides opportunities for the academic and industry testing communities to discuss recent work in Software Engineering. -->
 
 
 ![Gordon Fraser](images/gordon_fraser.jpg)
