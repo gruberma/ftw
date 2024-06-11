@@ -1,4 +1,4 @@
-baseURL = 'http://gruberma.github.io/wtf/'
+baseURL = 'http://gruberma.github.io/ftw/'
 languageCode = 'en-us'
-title = 'WTF'
+title = 'FTW'
 theme = 'ananke'
