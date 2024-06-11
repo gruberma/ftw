@@ -32,6 +32,15 @@ Furthermore, he is currently finalizing his dissertation on the understanding an
 <!-- His research is concerned with the understanding and mitigation of test flakiness, on which he published multiple papers in well-known conferences. -->
 <!-- He is supervised by professor Gordon Fraser, who holds the Chair for Software Engineering 2 at the University of Passau. -->
 
+![August Shi](images/august_shi.jpg)
+
+**August Shi** is and Assistant Professor in the Chandra Family Department of
+Electrical and Computer Engineering at the University of Texas at Austin.
+August has worked extensively in the area of flaky test research, publishing
+work on detecting, debugging, and repairing flaky tests. For his work on flaky
+tests, August has been awarded a SIGSOFT Outstanding Doctoral Dissertation
+Award and an NSF CAREER Award. August received his PhD in Computer Science from
+the University of Illinois at Urbana-Champaign.
 
 # Steering Committee
 
