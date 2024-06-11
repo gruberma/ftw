@@ -44,7 +44,7 @@ the University of Illinois at Urbana-Champaign.
 
 ![Wing Lam](images/wing_lam.jpg)
 
-**Wing Lam** is an Assistant Professor in the Computer Science department at George Mason University. Dr. Lam works on several topics in software engineering, with a focus on software testing. His research improves software dependability by characterizing bugs and developing novel techniques to detect and tame bugs. Wing has published in top-tier conferences such as ESEC/FSE, ICSE, ISSTA, OOPSLA, and TACAS. His techniques have helped detect and fix bugs in open-source projects and have impacted how Dragon Testing, Microsoft, and Tencent developers test their code. Wing has been the recipient of several awards, including an ACM SIGSOFT Outstanding Doctoral Dissertation Award. More information is available on his [web page](https://cs.gmu.edu/~winglam).
+**Wing Lam** is an Assistant Professor in the Computer Science department at George Mason University. Dr. Lam works on several topics in software engineering, with a focus on software testing. His research improves software dependability by characterizing bugs and developing novel techniques to detect and tame bugs. Wing has published in top-tier conferences, such as ESEC/FSE, ICSE, ISSTA, OOPSLA, and TACAS. His techniques have helped detect and fix bugs in open-source projects and have impacted how Dragon Testing, Microsoft, and Tencent developers test their code. Wing has been the recipient of several awards, including an ACM SIGSOFT Outstanding Doctoral Dissertation Award and an NSF CAREER award. More information is available on his [web page](https://cs.gmu.edu/~winglam).
 
 # Steering Committee
 
