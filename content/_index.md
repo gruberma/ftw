@@ -7,13 +7,15 @@ cascade:
 ---
 
 *Flakiness*, or non-deterministic behavior of builds and tests, is a major and continuing impediment to software testing.
-This workshop aims to bring together **industry professionals** and **academics** to discuss the wide effects of test flakiness, propose solution approaches, report on the industrial state of practice, and present empirical studies, as well as case studies.
+The Flaky Tests Workshop (FTW) aims to bring together **industry professionals** and **academics** to discuss the wide effects of test flakiness, propose solution approaches, report on the industrial state of practice, and present empirical studies, as well as case studies.
 
 
-<!-- # Status -->
-<!--  -->
-<!-- We have submitted our workshop proposal to [ICSE 2024](https://conf.researchr.org/home/icse-2024), which is currently under review. -->
-<!-- If all goes well, we hope to see you in Lisbon! -->
+# Status
+
+We hosted [FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024) co-located to ICSE, which was a great success.
+
+We have submitted our workshop proposal to [ICSE 2025](https://conf.researchr.org/home/icse-2025), which is currently under review.
+If all goes well, we hope to see you in Ottawa!
 
 
 # Organizing Committee
