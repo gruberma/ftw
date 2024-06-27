@@ -1,1 +1,1 @@
-FTW website
+Flaky Tests Workshop (FTW) website
