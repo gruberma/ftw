@@ -12,10 +12,22 @@ The Flaky Tests Workshop (FTW) aims to bring together **industry professionals**
 
 # Status
 
-We hosted [FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024) co-located to ICSE, which was a great success.
+The International Flaky Tests Workshop (FTW) returns and we would love to invite you and your colleagues to submit your work on test flakiness and non-determinism in testing.
+Like last year, we are co-located to ICSE and we are offering two submission formats:
+* Extended abstract (max. 2 pages including references): New ideas, problems and challenges, view points, work in progress.
+* Short paper (max. 8 pages including references): Technical research, experience reports, empirical studies.
+
+The **submission deadline is November 11th 2024**.
+You can find further information about the submission process on the [FTW website](https://conf.researchr.org/home/icse-2025/ftw-2025#Call-for-Papers).
+Further details about the workshop's agenda will follow soon.
+We look forward to your participation!
+
+
+<!--> We hosted [FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024) co-located to ICSE, which was a great success.
 
 We have submitted our workshop proposal to [ICSE 2025](https://conf.researchr.org/home/icse-2025), which is currently under review.
 If all goes well, we hope to see you in Ottawa!
+<--> 
 
 
 # Organizing Committee
