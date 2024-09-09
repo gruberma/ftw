@@ -23,11 +23,10 @@ Further details about the workshop's agenda will follow soon.
 We look forward to your participation!
 
 
-<!--> We hosted [FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024) co-located to ICSE, which was a great success.
+<!-- We hosted [FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024) co-located to ICSE, which was a great success.
 
 We have submitted our workshop proposal to [ICSE 2025](https://conf.researchr.org/home/icse-2025), which is currently under review.
-If all goes well, we hope to see you in Ottawa!
-<--> 
+If all goes well, we hope to see you in Ottawa! --> 
 
 
 # Organizing Committee
