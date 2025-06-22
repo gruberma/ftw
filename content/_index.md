@@ -12,38 +12,25 @@ The Flaky Tests Workshop (FTW) aims to bring together **industry professionals**
 
 # Status
 
-The International Flaky Tests Workshop (FTW) returns and we would love to invite you and your colleagues to submit your work on test flakiness and non-determinism in testing.
-Like last year, we are co-located to ICSE and we are offering two submission formats:
-* Extended abstract (max. 2 pages including references): New ideas, problems and challenges, view points, work in progress.
-* Short paper (max. 8 pages including references): Technical research, experience reports, empirical studies.
+<!-- The International Flaky Tests Workshop (FTW) returns and we would love to invite you and your colleagues to submit your work on test flakiness and non-determinism in testing. -->
+<!-- Like last year, we are co-located to ICSE and we are offering two submission formats: -->
+<!-- * Extended abstract (max. 2 pages including references): New ideas, problems and challenges, view points, work in progress. -->
+<!-- * Short paper (max. 8 pages including references): Technical research, experience reports, empirical studies. -->
+<!--  -->
+<!-- The **submission deadline is November 11th 2024**. -->
+<!-- You can find further information about the submission process on the [FTW website](https://conf.researchr.org/home/icse-2025/ftw-2025#Call-for-Papers). -->
+<!-- Further details about the workshop's agenda will follow soon. -->
+<!-- We look forward to your participation! -->
 
-The **submission deadline is November 11th 2024**.
-You can find further information about the submission process on the [FTW website](https://conf.researchr.org/home/icse-2025/ftw-2025#Call-for-Papers).
-Further details about the workshop's agenda will follow soon.
-We look forward to your participation!
 
+[FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024) and
+[FTW 2025](https://conf.researchr.org/home/icse-2025/ftw-2025) were a great success and we hope to continue the workshop in 2026.
 
-<!-- We hosted [FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024) co-located to ICSE, which was a great success.
-
-We have submitted our workshop proposal to [ICSE 2025](https://conf.researchr.org/home/icse-2025), which is currently under review.
-If all goes well, we hope to see you in Ottawa! --> 
+We have submitted our workshop proposal to [ICSE 2026](https://conf.researchr.org/home/icse-2026), which is currently under review.
+If all goes well, we hope to see you in Rio!
 
 
 # Organizing Committee
-
-![Owain Parry](images/owain_parry.jpg)
-
-**Owain Parry** is an early-career researcher working on flaky tests.
-He published multiple papers in this field, including an extensive systematic literature review on the topic, a developer survey, and a machine learning-driven technique for detecting flaky tests.
-<!-- Owain has served several times as a reviewer for Software Testing, Verification Reliability, a top journal in the field of software testing. He has also served as a student volunteer at ICSE 2022, ICST 2023, and as a session chair at AST 2022. -->
-
-![Martin Gruber](images/martin_gruber.jpg)
-
-**Martin Gruber** is a Software Engineer working with the BMW Group, where he is concerned with software quality and testing in CI environments.
-Furthermore, he is currently finalizing his dissertation on the understanding and mitigation of test flakiness.
-<!-- Furthermore, he is finishing up his dissertation (4th year PhD candidate), which he is planning to submit until the end of this year. -->
-<!-- His research is concerned with the understanding and mitigation of test flakiness, on which he published multiple papers in well-known conferences. -->
-<!-- He is supervised by professor Gordon Fraser, who holds the Chair for Software Engineering 2 at the University of Passau. -->
 
 ![August Shi](images/august_shi.jpg)
 
@@ -59,7 +46,30 @@ the University of Illinois at Urbana-Champaign.
 
 **Wing Lam** is an Assistant Professor in the Computer Science department at George Mason University. Dr. Lam works on several topics in software engineering, with a focus on software testing. His research improves software dependability by characterizing bugs and developing novel techniques to detect and tame bugs. Wing has published in top-tier conferences, such as ESEC/FSE, ICSE, ISSTA, OOPSLA, and TACAS. His techniques have helped detect and fix bugs in open-source projects and have impacted how Dragon Testing, Microsoft, and Tencent developers test their code. Wing has been the recipient of several awards, including an ACM SIGSOFT Outstanding Doctoral Dissertation Award and an NSF CAREER award. More information is available on his [web page](https://cs.gmu.edu/~winglam).
 
+
+![Fabian Leinen](images/fabian_leinen.jpg)
+
+**Fabian Leinen**
+
+
+![Joanna Kisaakye](images/joanna_kisaakye.jpg)
+
+**Joanna Kisaakye**
+
+
 # Steering Committee
+
+
+![Owain Parry](images/owain_parry.jpg)
+
+**Owain Parry** is an early-career researcher working on flaky tests.
+He published multiple papers in this field, including an extensive systematic literature review on the topic, a developer survey, and a machine learning-driven technique for detecting flaky tests.
+<!-- Owain has served several times as a reviewer for Software Testing, Verification Reliability, a top journal in the field of software testing. He has also served as a student volunteer at ICSE 2022, ICST 2023, and as a session chair at AST 2022. -->
+
+![Martin Gruber](images/martin_gruber.jpg)
+
+**Martin Gruber** is a Software Engineer working with the BMW Group, where he is concerned with software quality and testing in CI environments.
+His dissertation focused on understanding and mitigating test flakiness.
 
 
 ![Tim Henderson](images/tim_henderson.jpg)
