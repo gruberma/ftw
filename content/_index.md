@@ -54,7 +54,7 @@ the University of Illinois at Urbana-Champaign.
 
 ![Joanna Kisaakye](images/joanna_kisaakye.jpg)
 
-**Joanna Kisaakye**
+**Joanna Kisaakye** is a PhD researcher at the University of Antwerp. She is part of the Lab on Reengineering (LoRE). Her research centres around software evolution and software quality. Currently, she is focusing on flakiness scores, their adoption and adaptations for practice.
 
 
 # Steering Committee
