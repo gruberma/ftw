@@ -49,7 +49,7 @@ the University of Illinois at Urbana-Champaign.
 
 ![Fabian Leinen](images/fabian_leinen.jpg)
 
-**Fabian Leinen**
+**Fabian Leinen** is a PhD researcher at the Technical University of Munich, focused on regression tests. He specializes in analyzing and managing flaky tests in continuous integration environments. He aims to enhance the understanding and practical handling of test flakiness in software development.
 
 
 ![Joanna Kisaakye](images/joanna_kisaakye.jpg)
