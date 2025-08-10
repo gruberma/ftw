@@ -16,14 +16,11 @@ The International Flaky Tests Workshop (FTW) will continue in 2026. Following [F
 
 [FTW 2026](https://conf.researchr.org/home/icse-2026/ftw-2026) will be co-located with [ICSE 2026](https://conf.researchr.org/home/icse-2026) in Rio de Janeiro, Brazil. We offer two submission formats:
 
-- Extended abstract (max. 2 pages including references): New ideas, problems and challenges, viewpoints, work in progress. Extended abstracts are free of APC (article processing charge).
-- Short paper (max. 6 pages + 2 pages references): Technical research, experience reports, empirical studies.
+*Extended abstract* (max. 2 pages including references): New ideas, problems and challenges, viewpoints, work in progress. Extended abstracts are free of APC (article processing charge).
 
-Important Dates (AoE, UTC-12h)
+*Short paper* (max. 6 pages + 2 pages references): Technical research, experience reports, empirical studies.
 
-- Submission deadline: January 18, 2026
-- Notification: November 24, 2025
-- Camera-ready: January 26, 2026
+The submission deadline will be on January 18, 2026 (AoE, UTC-12h).
 
 Please check the [FTW 2026](https://conf.researchr.org/home/icse-2026/ftw-2026) page for the most up-to-date information.
 
