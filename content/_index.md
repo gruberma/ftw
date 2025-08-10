@@ -12,22 +12,20 @@ The Flaky Tests Workshop (FTW) aims to bring together **industry professionals**
 
 # Status
 
-<!-- The International Flaky Tests Workshop (FTW) returns and we would love to invite you and your colleagues to submit your work on test flakiness and non-determinism in testing. -->
-<!-- Like last year, we are co-located to ICSE and we are offering two submission formats: -->
-<!-- * Extended abstract (max. 2 pages including references): New ideas, problems and challenges, view points, work in progress. -->
-<!-- * Short paper (max. 8 pages including references): Technical research, experience reports, empirical studies. -->
-<!--  -->
-<!-- The **submission deadline is November 11th 2024**. -->
-<!-- You can find further information about the submission process on the [FTW website](https://conf.researchr.org/home/icse-2025/ftw-2025#Call-for-Papers). -->
-<!-- Further details about the workshop's agenda will follow soon. -->
-<!-- We look forward to your participation! -->
+The International Flaky Tests Workshop (FTW) will continue in 2026. Following [FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024) and [FTW 2025](https://conf.researchr.org/home/icse-2025/ftw-2025), we invite submissions on test flakiness and non-determinism in testing.
 
+[FTW 2026](https://conf.researchr.org/home/icse-2026/ftw-2026) will be co-located with [ICSE 2026](https://conf.researchr.org/home/icse-2026) in Rio de Janeiro, Brazil. We offer two submission formats:
 
-[FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024) and
-[FTW 2025](https://conf.researchr.org/home/icse-2025/ftw-2025) were a great success and we hope to continue the workshop in 2026.
+- Extended abstract (max. 2 pages including references): New ideas, problems and challenges, viewpoints, work in progress. Extended abstracts are free of APC (article processing charge).
+- Short paper (max. 6 pages + 2 pages references): Technical research, experience reports, empirical studies.
 
-We have submitted our workshop proposal to [ICSE 2026](https://conf.researchr.org/home/icse-2026), which is currently under review.
-If all goes well, we hope to see you in Rio!
+Important Dates (AoE, UTC-12h)
+
+- Submission deadline: January 18, 2026
+- Notification: November 24, 2025
+- Camera-ready: January 26, 2026
+
+Please check the [FTW 2026](https://conf.researchr.org/home/icse-2026/ftw-2026) page for the most up-to-date information.
 
 
 # Organizing Committee
