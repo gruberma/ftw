@@ -12,20 +12,33 @@ The Flaky Tests Workshop (FTW) aims to bring together **industry professionals**
 
 # Status
 
-The International Flaky Tests Workshop (FTW) will continue in 2026. Following [FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024) and [FTW 2025](https://conf.researchr.org/home/icse-2025/ftw-2025), we invite submissions on test flakiness and non-determinism in testing.
+The International Flaky Tests Workshop (FTW) will continue in 2027. Following [FTW 2024](https://conf.researchr.org/home/icse-2024/ftw-2024), [FTW 2025](https://conf.researchr.org/home/icse-2025/ftw-2025), and [FTW 2026](https://conf.researchr.org/home/icse-2026/ftw-2026), we invite submissions on test flakiness and non-determinism in testing.
 
-[FTW 2026](https://conf.researchr.org/home/icse-2026/ftw-2026) will be co-located with [ICSE 2026](https://conf.researchr.org/home/icse-2026) in Rio de Janeiro, Brazil. We offer two submission formats:
+<!-- [FTW 2027](https://conf.researchr.org/home/icse-2027/ftw-2027) will be co-located with [ICSE 2027](https://conf.researchr.org/home/icse-2027) in Dublin, Ireland.--> We offer two submission formats:
 
 *Extended abstract* (max. 2 pages including references): New ideas, problems and challenges, viewpoints, work in progress. Extended abstracts are free of APC (article processing charge).
 
-*Short paper* (max. 6 pages + 2 pages references): Technical research, experience reports, empirical studies.
+*Short paper* (max. 5 pages + 2 pages references): Technical research, experience reports, empirical studies.
 
+<!-- 
 The submission deadline will be on January 18, 2026 (AoE, UTC-12h).
 
-Please check the [FTW 2026](https://conf.researchr.org/home/icse-2026/ftw-2026) page for the most up-to-date information.
+Please check the [FTW 2027](https://conf.researchr.org/home/icse-2027/ftw-2027) page for the most up-to-date information. -->
 
 
 # Organizing Committee
+
+![Fabian Leinen](images/fabian_leinen.jpg)
+
+**Fabian Leinen** is a PhD researcher at the Technical University of Munich, focused on regression tests. He specializes in analyzing and managing flaky tests in continuous integration environments. He aims to enhance the understanding and practical handling of test flakiness in software development.
+
+
+![Joanna Kisaakye](images/joanna_kisaakye.jpg)
+
+**Joanna Kisaakye** is a PhD researcher at the University of Antwerp. She is part of the Lab on Reengineering (LoRE). Her research centres around software evolution and software quality. Currently, she is focusing on flakiness scores, their adoption and adaptations for practice.
+
+
+# Steering Committee
 
 ![August Shi](images/august_shi.jpg)
 
@@ -40,20 +53,6 @@ the University of Illinois at Urbana-Champaign.
 ![Wing Lam](images/wing_lam.jpg)
 
 **Wing Lam** is an Assistant Professor in the Computer Science department at George Mason University. Dr. Lam works on several topics in software engineering, with a focus on software testing. His research improves software dependability by characterizing bugs and developing novel techniques to detect and tame bugs. Wing has published in top-tier conferences, such as ESEC/FSE, ICSE, ISSTA, OOPSLA, and TACAS. His techniques have helped detect and fix bugs in open-source projects and have impacted how Dragon Testing, Microsoft, and Tencent developers test their code. Wing has been the recipient of several awards, including an ACM SIGSOFT Outstanding Doctoral Dissertation Award and an NSF CAREER award. More information is available on his [web page](https://cs.gmu.edu/~winglam).
-
-
-![Fabian Leinen](images/fabian_leinen.jpg)
-
-**Fabian Leinen** is a PhD researcher at the Technical University of Munich, focused on regression tests. He specializes in analyzing and managing flaky tests in continuous integration environments. He aims to enhance the understanding and practical handling of test flakiness in software development.
-
-
-![Joanna Kisaakye](images/joanna_kisaakye.jpg)
-
-**Joanna Kisaakye** is a PhD researcher at the University of Antwerp. She is part of the Lab on Reengineering (LoRE). Her research centres around software evolution and software quality. Currently, she is focusing on flakiness scores, their adoption and adaptations for practice.
-
-
-# Steering Committee
-
 
 ![Owain Parry](images/owain_parry.jpg)
 
