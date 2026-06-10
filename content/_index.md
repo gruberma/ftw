@@ -18,7 +18,7 @@ The International Flaky Tests Workshop (FTW) will continue in 2027. Following [F
 
 *Extended abstract* (max. 2 pages including references): New ideas, problems and challenges, viewpoints, work in progress. Extended abstracts are free of APC (article processing charge).
 
-*Short paper* (max. 5 pages + 2 pages references): Technical research, experience reports, empirical studies.
+*Short paper* (max. 5 pages including references): Technical research, experience reports, empirical studies.
 
 <!-- 
 The submission deadline will be on January 18, 2026 (AoE, UTC-12h).
