@@ -29,7 +29,7 @@ Please check the [FTW 2027](https://conf.researchr.org/home/icse-2027/ftw-2027) 
 # Organizing Committee
 
 
-![Sebastian Baltes](images/sebastian-portrait.jpg)
+![Sebastian Baltes](images/sebastian-baltes.jpg)
 
 **Sebastian Baltes** is a Professor of Software Engineering at Heidelberg University, Germany, and an Adjunct Professor at the University of Adelaide, Australia. He received his Ph.D. in Computer Science from the University of Trier, Germany, in 2019 and spent 3.5 years in the software industry before returning to academia. His research focuses on software analytics, that is, processing, analyzing, and visualizing software engineering data to monitor, govern, and improve development processes and tools. He is also interested in interdisciplinary research and the methodological foundations of empirical software engineering. For him, thoroughly understanding the state of practice is an essential first step toward improving how software is developed. More broadly, he believes software engineering must become more evidence-based, which is only possible if academic researchers provide actionable insights on topics relevant to practitioners. His work has been published in leading venues including ICSE, FSE, TSE, TOSEM, and EMSE, has received multiple best paper awards, including two ACM SIGSOFT Distinguished Paper Awards, and has received funding from Google and SAP. More information is available on his [web page](https://empirical-software.engineering/about/).
 
@@ -44,7 +44,7 @@ Please check the [FTW 2027](https://conf.researchr.org/home/icse-2027/ftw-2027) 
 **Joanna Kisaakye** is a PhD researcher at the University of Antwerp. She is part of the Lab on Reengineering (LoRE). Her research centres around software evolution and software quality. Currently, she is focusing on flakiness scores, their adoption and adaptations for practice.
 
 
-![Shanto Rahman](images/shanto_rahman.png)
+![Shanto Rahman](images/shanto_rahman.jpg)
 
 **Shanto Rahman** is an incoming Assistant Professor in the Department of Computer Science at The University of Texas at Dallas. She is currently completing her PhD in Electrical and Computer Engineering at The University of Texas at Austin, advised by Prof. August Shi. Her research focuses on software testing, with a particular emphasis on flaky tests. Over the years, she has developed techniques for predicting, debugging, and repairing flaky tests.
 
