@@ -44,6 +44,8 @@ Please check the [FTW 2027](https://conf.researchr.org/home/icse-2027/ftw-2027) 
 **Joanna Kisaakye** is a PhD researcher at the University of Antwerp. She is part of the Lab on Reengineering (LoRE). Her research centres around software evolution and software quality. Currently, she is focusing on flakiness scores, their adoption and adaptations for practice.
 
 
+![Shanto Rahman](images/shanto_rahman.png)
+
 **Shanto Rahman** is an incoming Assistant Professor in the Department of Computer Science at The University of Texas at Dallas. She is currently completing her PhD in Electrical and Computer Engineering at The University of Texas at Austin, advised by Prof. August Shi. Her research focuses on software testing, with a particular emphasis on flaky tests. Over the years, she has developed techniques for predicting, debugging, and repairing flaky tests.
 
 
